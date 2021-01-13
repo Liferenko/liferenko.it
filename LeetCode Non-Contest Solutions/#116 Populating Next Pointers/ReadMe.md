@@ -1,1 +1,0 @@
-Explain all the approaches.
