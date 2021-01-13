@@ -3,10 +3,12 @@
 </p>
 
 **TODO:**
-- [ ] Add TIL block
-- [ ] Describe and show what's under a hood of Tiny Cliniq pet project
-- [ ] Describe and show -//- of Poehali.info
-- [ ] Describe and show -//- of Weamarry (remember! NDA!)
+- Add TIL block
+  - [x] add simple til.html
+  - [ ] refactor it for Vue or ClojureScript
+- Describe and show what's under a hood of Tiny Cliniq pet project
+- Describe and show -//- of Poehali.info
+- Describe and show -//- of Weamarry (remember! NDA!)
 
 **The Why**
 
