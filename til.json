@@ -1,0 +1,25 @@
+{
+    "posts": [
+        { 
+            "id"    : 1,
+            "title" : "AWS / Best practices for working with Lambdas",
+            "date"  : "2021-01-13",
+            "text"  : "Memory leaks, cost optimization, metrics and alarms",
+            "link_to_read_more" : "https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html"
+        },
+        { 
+            "id"    : 2,
+            "title" : "Elixir / Use IEx as a documentation",
+            "date"  : "2021-01-15",
+            "text"  : "It's literally the same as hexdocs.com. But it's offline",
+            "link_to_read_more" : ""
+        },
+        { 
+            "id"    : 1,
+            "title" : "DB table sharding",
+            "date"  : "2021-01-13",
+            "text"  : "Sharding. Vertical and horizontal. Horizontal sharding: hash sharding and range sharding",
+            "link_to_read_more" : ""
+        }
+    ]
+}

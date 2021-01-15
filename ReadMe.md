@@ -5,6 +5,9 @@
 **TODO:**
 - Add TIL block
   - [x] add simple til.html
+  - [ ] convert hardcoded TIL posts in JSON file
+  - [ ] insert til.json in DB (noSQL or SQL)
+  - [ ] a server for liferenko.it should be running on FastAPI
   - [ ] refactor it for Vue or ClojureScript
 - Describe and show what's under a hood of Tiny Cliniq pet project
 - Describe and show -//- of Poehali.info
