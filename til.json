@@ -1,6 +1,20 @@
 {
     "posts": [
         { 
+            "id"    : 6,
+            "title" : "DB / All this time I've known what DB normalization is",
+            "date"  : "2021-01-20",
+            "text"  : "I knew there is bad case to use non-uqique data in fields - you are better to init new table and connect 2 tables with IDs. Today I learned it means normalization of database",
+            "link_to_read_more" : ""
+        },
+        { 
+            "id"    : 5,
+            "title" : "CLI / How to generate sha1 hashed password directly in console",
+            "date"  : "2021-01-20",
+            "text"  : "`echo -n \"I tried so hard and get so far\" | sha1sum`",
+            "link_to_read_more" : ""
+        },
+         { 
             "id"    : 4,
             "title" : "Keyboard / Custom layout for Kinesis Adv with pretty interesting [] keys for thumbs",
             "date"  : "2021-01-20",
