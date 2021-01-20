@@ -1,7 +1,14 @@
 {
     "posts": [
         { 
-            "id"    : 1,
+            "id"    : 4,
+            "title" : "Keyboard / Custom layout for Kinesis Adv with pretty interesting [] keys for thumbs",
+            "date"  : "2021-01-20",
+            "text"  : "Finally some valuable example for Kinesis keyboard. It shows Dvorak, but anyway there are a bunch of useful keybindings ova de",
+            "link_to_read_more" : "https://ebzzry.io/en/advantage/"
+        },
+        { 
+            "id"    : 3,
             "title" : "AWS / Best practices for working with Lambdas",
             "date"  : "2021-01-13",
             "text"  : "Memory leaks, cost optimization, metrics and alarms",
